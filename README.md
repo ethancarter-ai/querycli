@@ -120,6 +120,10 @@ querycli/
 
 `cli`, `query`, `json`, `yaml`, `toml`, `csv`, `developer-tools`, `terminal`, `zero-dependency`, `python`
 
+## GitHub
+
+[GitHub](https://github.com/ethancarter-ai/querycli)
+
 ## License
 
 MIT
